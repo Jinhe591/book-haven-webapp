@@ -1,3 +1,7 @@
+"""
+Book Haven - Book Scraping and Recommendation System
+Author: Hadi Assi
+"""
 import re
 import requests
 from bs4 import BeautifulSoup
